@@ -14,11 +14,19 @@ public class Main {
         newEngine.size="45555cc";
         newEngine.weight="980987k";
 
+
         color newColor=new color();
 
         newColor.colorLights="True";
         newColor.colorWindows="Ture";
         newColor.colorTyre="False";
+
+        lights newLights=new lights();
+
+        newLights.color="red";
+        newLights.size="16cm";
+        newLights.intensity="9878l";
+
         
 
         
