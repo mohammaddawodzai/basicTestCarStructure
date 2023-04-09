@@ -13,7 +13,14 @@ public class Main {
         newEngine.cylinders="6";
         newEngine.size="45555cc";
         newEngine.weight="980987k";
+
+        color newColor=new color();
+
+        newColor.colorLights="True";
+        newColor.colorWindows="Ture";
+        newColor.colorTyre="False";
         
+
         
     }
 }
