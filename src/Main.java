@@ -7,6 +7,13 @@ public class Main {
         structure.color="black";
         structure.model="v8";
         structure.power="5000cc";
+
+        engine newEngine=new engine();
+
+        newEngine.cylinders="6";
+        newEngine.size="45555cc";
+        newEngine.weight="980987k";
+        
         
     }
 }
