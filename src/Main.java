@@ -13,6 +13,12 @@ public class Main {
         newEngine.cylinders="6";
         newEngine.size="45555cc";
         newEngine.weight="980987k";
+
+        lights newLights=new lights();
+
+        newLights.color="red";
+        newLights.size="16cm";
+        newLights.intensity="9878l";
         
         
     }
